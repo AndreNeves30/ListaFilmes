@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ListaFilmes</string>
     <string name="desc">Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo pra resgatar uma princesa.</string>
+    <string name="desc2">Na primeira parte, O Senhor dos Anéis, um jovem e tímido hobbit chamado Frodo Bolseiro herda um simples anel de ouro que guarda o segredo da sobrevivência – ou escravidão – de todo o mundo.</string>
+    <string name="desc3">Um homem das cavernas (Nicolas Cage) e sua família procuram um novo lar quando a Mãe Natureza se torna hostil.</string>
+    <string name="desc4">Po treina uma vila de pandas para lutar contra um inimigo sobrenatural.</string>
+    <string name="desc5">Em uma missão para salvar seu mundo, Bob Esponja Calça Quadrada está indo para o nosso pela primeira vez!</string>
+    <string name="desc6">Este emocionante segundo capítulo da trilogia Como Treinar o Seu Dragão retorna ao mundo fantástico de Soluço e Banguela enquanto eles se unem para salvar o futuro de homens e dragões!</string>
 </resources>
